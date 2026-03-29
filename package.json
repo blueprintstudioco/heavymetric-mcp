@@ -1,0 +1,13 @@
+{
+  "name": "heavymetric-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Heavy Metric's home service strategy library",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "heavymetric-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}
